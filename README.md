@@ -7,6 +7,16 @@ This is a Vim colorscheme based on the [Espresso][] theme for iTerm2. It has
 support for both GUI and terminal colors, and includes its own colorscheme for
 [Lightline][].
 
+##Screenshots
+
+Here is a terminal instance of Vim with some Scala code:
+
+![Scala Example](https://raw.githubusercontent.com/gmoe/vim-espresso/gh-pages/images/scala.png)
+
+And here is another Vim instance with Python code:
+
+![Python Example](https://raw.githubusercontent.com/gmoe/vim-espresso/gh-pages/images/python.png)
+
 ##Installation
 
 [Pathogen]: https://github.com/tpope/vim-pathogen
