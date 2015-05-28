@@ -1,7 +1,7 @@
 #vim-espresso
 
-[Espresso]:(https://github.com/mbadolato/iTerm2-Color-Schemes#espresso)
-[Lightline]:(https://github.com/itchyny/lightline.vim)
+[Espresso]: https://github.com/mbadolato/iTerm2-Color-Schemes#espresso
+[Lightline]: https://github.com/itchyny/lightline.vim
 
 This is a Vim colorscheme based on the [Espresso][] theme for iTerm2. It has
 support for both GUI and terminal colors, and includes its own colorscheme for
