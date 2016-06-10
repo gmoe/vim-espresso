@@ -66,7 +66,7 @@ if &t_Co > 255
     hi SpellBad guibg=#d25252 ctermbg=167
     hi SpellCap guibg=#6c99bb ctermbg=67
     hi SpellLocal guibg=#6c99bb ctermbg=67
-    hi SpellRare guifg=none guibg=none ctermfg=none ctermbg=none cterm=reverse gui=reverse
+    hi SpellRare guifg=NONE guibg=NONE ctermfg=none ctermbg=none cterm=reverse gui=reverse
   endif
   hi Statement guifg=#bed6ff ctermfg=153 cterm=bold gui=bold
   hi StatusLine guifg=#eeeeee guibg=#6c99bb ctermfg=255 ctermbg=67 cterm=bold gui=bold
