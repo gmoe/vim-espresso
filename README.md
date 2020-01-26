@@ -1,23 +1,23 @@
-#vim-espresso
+# vim-espresso
+
+This is a Vim color scheme based on the [Espresso][] theme for iTerm2. It has
+support for both GUI and terminal colors, and includes its own colorscheme for
+[Lightline][].
 
 [Espresso]: https://github.com/mbadolato/iTerm2-Color-Schemes#espresso
 [Lightline]: https://github.com/itchyny/lightline.vim
 
-This is a Vim colorscheme based on the [Espresso][] theme for iTerm2. It has
-support for both GUI and terminal colors, and includes its own colorscheme for
-[Lightline][].
-
-##Screenshots
+## Screenshots
 
 Here is a terminal instance of Vim with some Scala code:
 
-![Scala Example](https://raw.githubusercontent.com/gmoe/vim-espresso/gh-pages/images/scala.png)
+![vim-espresso Scala Example](https://raw.githubusercontent.com/gmoe/vim-espresso/gh-pages/images/scala.png)
 
 And here is another Vim instance with Python code:
 
-![Python Example](https://raw.githubusercontent.com/gmoe/vim-espresso/gh-pages/images/python.png)
+![vim-espresso Python Example](https://raw.githubusercontent.com/gmoe/vim-espresso/gh-pages/images/python.png)
 
-##Installation
+## Installation
 
 [Pathogen]: https://github.com/tpope/vim-pathogen
 [Vundle]: https://github.com/gmarik/vundle
