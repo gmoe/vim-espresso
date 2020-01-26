@@ -19,21 +19,27 @@ And here is another Vim instance with Python code:
 
 ## Installation
 
-[Pathogen]: https://github.com/tpope/vim-pathogen
-[Vundle]: https://github.com/gmarik/vundle
+If you're unfamiliar with vim, consider using something like [vim-plug][] to
+maintain your plugins:
 
-I definitely recommend using [Pathogen][] if you are not already:
+1. Add the following to your `.vimrc`:
+```vim
+Plug 'gmoe/vim-eslint-syntax'
+```
+2. Restart vim and execute `:PlugInstall` to automatically download and install
+   this plugin.
 
-    $ cd ~/.vim/bundle
-    $ git clone https://github.com/gmoe/vim-espresso.git
+Or consider using Vim 8's [native plugin manager][vim8] and clone this repo
+into your bundle.
 
-Or alternatively use [Vundle][]: 
-
-    Plugin 'gmoe/vim-espresso'
-    :PluginInstall
 
 Make sure to edit your `.vimrc` as well:
 
-    set t_Co=256
-    set background=dark
-    colorscheme espresso
+```vim
+set t_Co=256
+set background=dark
+colorscheme espresso
+```
+
+[vim-plug]: https://vimhelp.org/repeat.txt.html#packages
+[vim8]: https://vimhelp.org/repeat.txt.html#packages
