@@ -1,4 +1,4 @@
-" Espressor colorscheme for Lightline.vim (https://github.com/itchyny/lightline.vim)
+" Espresso colorscheme for Lightline.vim (https://github.com/itchyny/lightline.vim)
 " Author: Griffin Moe (https://github.com/gmoe)
 
 if exists('g:lightline')
